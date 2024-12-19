@@ -1,0 +1,21 @@
+{
+  "name": "Oil Coin",
+  "symbol": "OILC",
+  "description": "Oil Coin based on Oil reserves.",
+  "seller_fee_basis_points": 500,
+  "image": "https://raw.githubusercontent.com/fordentinc/crypto/main/logojack.png",
+  "properties": {
+    "creators": [
+      {
+        "address": "BijCGn5RR8EtD3QDuK5EXK1A1ZtAMZRZBNqxH2NCox8Y",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/fordentinc/crypto/main/logojack.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
